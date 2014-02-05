@@ -1,0 +1,6 @@
+MGT 101 - Chapter 1 # MGT 101/chapter_1/
+MGT 101 - Chapter 2 # MGT_101/chapter_2/
+MGT 101 - Chapter 3 # MGT_101/chapter_3/
+MGT 101 - Chapter 4 # MGT_101/chapter_4/
+MGT 101 - Chapter 5 # MGT_101/chapter_5/
+MGT 101 - Chapter 6 # MGT_101/chapter_6/
