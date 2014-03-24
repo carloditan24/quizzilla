@@ -2,7 +2,7 @@ WELCOME TO QUIZZILLA
 
 Instructions for setting up questions and answers:
 
-1. Make a directory that corresponds to your subject. (e.g. CMSC 132)
+1. Make a directory that corresponds to your subject. (e.g. CMSC_132)
 
 2. Make a sub-directory for the subject's chapter (e.g. CMSC_132/ch1)
 	NOTE: There should be NO SPACES in between.
