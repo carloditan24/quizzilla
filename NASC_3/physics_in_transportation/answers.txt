@@ -1,0 +1,47 @@
+solid
+liquid
+gas
+fluids
+liquid
+gas
+fluid statics
+fluid dynamics
+density
+float
+sink
+1
+0.0013
+0.85
+2.7
+increases
+decreases
+specific gravity
+less than
+greater than
+buoyant force
+weight of the fluid displaced
+same
+same
+higher,sink
+density of object/density of water
+weight of object/weight loss
+pressure
+fluid pressure
+pgh
+fluid density,depth
+shape,volume
+transmitted undiminished,every portion
+pressure at the surface of the fluid
+atmospheric pressure
+altitude
+streamline
+velocity
+laminar flow
+turbulent flow
+continuity,bernoulli's
+mass
+area,velocity
+energy
+pressure,velocity
+high,low
+toricelli's theorem

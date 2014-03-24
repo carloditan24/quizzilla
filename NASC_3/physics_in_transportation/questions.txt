@@ -1,0 +1,47 @@
+(phase) hold shape, fixed volume
+(phase) shape of container, free surface, fixed volume
+(phase) shape and volume of container
+no definite shape and flows
+flow under gravity untily they occupy the lowest possible regions of their container
+expand to fill their containers regardless of their shape
+study of fluids at rest
+study of fluids in motion
+amount of mass per unit volume
+if density of object is less than density of fluid medium, object _____
+if density of object is greater than density of fluid medium, object _____
+density of water (g/cm^3)
+density of air (g/cm^3)
+density of wood (oak) (g/cm^3)
+density of aluminum (g/cm^3)
+if submarine's ballast is filled with water, the density ____
+if submarine's ballast is emptied, the density _____
+ration of the density of a material to a standard density
+if an object floats on water, SG is ____ 1
+if an object sinks in water, SG is ____ 1
+net upward force that a fluid exerts on an object
+buoyant force equal to the _____ according to archimedes' principle
+two identical boats float on fresh and salt water respectively, which two boats experience greater amount of buoyant force (fresh, salt, same)
+if the weight of two or more objects are the same, they have ___ buoyant force
+if the density is lower, ___ volume of fluid is displaced, thus ____
+formula for SG for floating objects
+formula for SG for sinking objects
+force per unit area
+force (perpendicular to the surface) per unit area exerted by fluid on an object
+formula for fluid pressure
+fluid pressure increase with ____ and _____
+fluid pressure does not depend on ___ of the container or ____ of fluid
+pressure applied to an enclosed fluid is _______ to ____ of the fluid and the walls of the enclosing vessel according to Pascal's principle
+absolute pressure is equal to ____ plus atmospheric pressure
+if the fluid surface is exposed to the atmosphere, then Po = ______
+air pressure decreases with ______
+path followed by a certain fluid
+streamline reflects the ____ of the fluid
+an orderly flow of neighboring layers of fluid; streamlines do not cross over each other
+irregular, complex flow of fluids
+area equation is to _____ equation: pressure is to _____ equation
+continuity equation dervives from conservation of ____
+according to continuity equation, _____ is inversely proportional to ______
+bernoulli's equation derirves from conservation of _____
+if elevation is the same (accdg to bernoulli's), ______ is inversely proportional to _______
+direction of fluid flow is from ____ pressure to ____ pressure
+relates the speed of fluid flowing out of an opening to the height of the fluid above the opening

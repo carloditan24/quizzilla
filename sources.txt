@@ -1,6 +1,6 @@
-MGT 101 - Chapter 1 # MGT 101/chapter_1/
-MGT 101 - Chapter 2 # MGT_101/chapter_2/
-MGT 101 - Chapter 3 # MGT_101/chapter_3/
-MGT 101 - Chapter 4 # MGT_101/chapter_4/
-MGT 101 - Chapter 5 # MGT_101/chapter_5/
-MGT 101 - Chapter 6 # MGT_101/chapter_6/
+MGT 101 - Planning Pt. 1 # MGT_101/chapter_7.1
+MGT 101 - Planning Pt. 2 # MGT_101/chapter_7.2
+MGT 101 - Organizing Pt. 1 # MGT_101/chapter_8.1
+MGT 101 - Organizing Pt. 2 # MGT_101/chapter_8.2
+MGT 101 - HRM # MGT_101/chapter_9
+HUM 2 - Music # HUM_2/music

@@ -1,0 +1,80 @@
+sound#rhythm#melody#harmony#form#texture
+sound waves
+eardrum
+pitch#dynamics#timbre
+pitch
+higher
+lower
+definite pitch
+indefinite pitch
+dynamics
+pianisissimo
+pianissimo
+piano
+mezzo piano
+mezzo forte
+forte
+fortissimo
+fortesissimo
+timbre
+bright#dark#metallic#sweet#brassy#woody
+timbre
+timbre
+15,20
+middle range
+ultrasonic
+whole#half#quarter#eighth#sixteenth
+rhythm
+beat#meter#tempo#notating rhythm
+beat
+beat
+meter
+4
+3
+2
+quintuple
+sextuple
+tempo
+beats per minute
+adagio#largo#andante#moderato#allegro#presto
+accent
+syncopation
+melody
+melody
+major
+natural minor
+pentatonic scale
+harmony
+consonant#dissonant
+consonant
+dissonant
+chords
+arpeggios
+progression
+harmonic triad
+root note#third interval#fifth interval
+form
+form by section#form by instrumentation#form by melodic variations/responses
+rhyme scheme
+sectional forms
+binary#ternary
+binary
+ternary
+instrumentation form
+concerto form
+concerto grosso form
+ripieno#concertino
+ripieno
+concertino
+non sectional form
+baroque
+canon
+round song
+repetition#contrast#variation
+repetition
+contrast
+variation
+monophonic#homophonic#polyphonic
+monophonic
+homophonic
+polyphonic

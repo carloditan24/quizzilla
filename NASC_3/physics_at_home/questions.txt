@@ -1,0 +1,80 @@
+measure of hotness or coldness
+temperature is associated with the _____ of molecules, atoms, particles that make up the system
+temperature is the measure of random ______ of molecules of the body
+fahrenheit to celsius formula
+celsius to fahrenheit formula
+kelvin to celsius
+amount of energy transferred from one system to another because of a difference in temperature
+heat is energy in _____
+heat is a ____ quantity
+1 cal = ___ J
+effects of heat (d,t,p)
+formula for heat (Q) - with change in temperature
+amount of heat required to cause a unit mass of a substance to change its temperature by 1 degree celsius
+_____ specific heat means more difficult to change temperature
+during day time, land has ____ specific heat than water
+during day time, land is easier to ____ than water
+during night time, land has _____ specific heat than water
+during night time, land is easier to ____ than water
+formula for heat (Q) - with change in phase
+conduction is transfer of energy by/due to ____
+convection is transfer of energy by/due to ____
+radiation is transfer of energy by/due to _____
+direction of temperature for conduction
+conduction occurs through ______
+formula for rate of conduction
+there is a slow rate of heat transfer if there is ____ thermal conductivity or thermal insulators
+____ convection - hot fluids displace cold fluids
+____ convection - regulate transfer of mass
+branch of physics concerned with heat and its relation to other forms of energy and work
+zeroth law of thermodynamics
+first law of thermodynamics
+second law of thermodynamics
+third law of thermodynamics
+thermal equilibrium has ____ temperature and ___ net heat transfer
+system can ____ with the surrounding or other systems (2nd law of thermodynamics)
+quantities to monitor in a system (Q,W,U)
+heat removed = ____
+heat absorbed = ____
+Work is equal to = (use pressure, area, and displacement)
+work is done if there is a ______
+volume expansion = ___
+volume contraction = ___
+work done ___ the system = -w
+work done ___ the system = +w
+total potential energy and kinetic energy of the system
+delta U = + is
+delate U = - is 
+according to first law of thermodynamics heat is equal to ____ plus _____
+process wherein if Q = 0, there is no heat transfer/exchange between the system and the surroundings
+if the system expanded, its temperature become ___
+if the system contracted, its temperature become ___
+process wherein there is constant volume for the system
+heat in isochoric process is entired used to _____
+process wherein there is constant temperature for the system
+heat in isothermal process is converted entirely to _____
+2nd law of thermodynamics deals with the ____ of thermodynamic processes
+heat cannot, by itself, pass from a colder to a warmer body
+accdg to clausius statement, warm to cold is ____
+accdg to clausius statement, cold to warm is ____
+it is impossible for a heat engine working in a cycle to produce _____ than that of extracting thermal energy from a reservoir and performing an equivalent amount of work
+accdg to heat engine statement, there is ____ at the cold reservoir
+accdg to heat engine statement, conservation of heat input to work is ____
+it is impossible for a refrigerator working in a cycle to produce ____ from a cold object and reject the same amount of heat to a hot object
+a refrigerator is a heat engine that run ____
+in a refrigerator, ____ is needed to extract _____ from the refrigerator and transfer it to the surroundings
+accdg to refrigerator statement, the refrigerator is the ____ reservoir
+accdg to refrigerator statement, the refrigerator is the ____ reservoir
+accdg to refrigerator statement, cold to warm is _____
+____ is the measure of the amount of disorder
+entropy is the measure of how much energy or heat is ____ for conversion into work
+____ tend to proceed toward a state of greater disorder
+order to disorder is ____
+disorder to order is ____ 
+the entropy of a perfect crystal at absolute zero is ____
+phase change from solid to liquid
+phase change from liquid to gas
+phase change from solid to gas
+phase change from liquid to solid
+phase change from gas to liquid
+phase change from gas to solid

@@ -1,0 +1,63 @@
+departmentalization
+functional#divisional
+functional
+functional
+functional
+functional
+functional
+functional
+division by product#division by geography#division by customer
+division by geography
+division by geography
+division by geography#division by product
+division by geography
+division by product
+division by product
+division by product
+division by product#division by customer
+division by customer
+division by customer
+team structure#matrix structure#hybrid structure#virtual organization#network organization
+team structure
+matrix structure
+hybrid structure
+virtual organization
+network organization
+matrix organization
+functional manager#divisional manager
+network organization
+team structure
+team structure
+team structure
+team structure
+matrix structure
+matrix structure
+matrix structure
+matrix structure
+hybrid structure
+hybrid structure
+hybrid structure
+hybrid structure
+virtual organization
+virtual organization
+virtual organization
+virtual organization
+virtual organization
+customer departmentalization#cross functional teams
+line position
+line authority
+line units
+staff position
+staff position
+functional authority
+mechanic,organic
+strategy#size#technology#environmental uncertainty
+innovation#cost minimization#imitation
+unit production#mass production#process production
+unit production
+mass production
+process production
+organic
+mechanistic
+roles#reservations#differentiation#transfer process
+keeping connected#building a learning organization#managing global structural issues

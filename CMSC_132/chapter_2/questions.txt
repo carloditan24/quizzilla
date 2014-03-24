@@ -1,0 +1,3 @@
+Relative performance assessment
+Measure the ability of a system to handle transactions
+Measure of the service accomplishment with respect to the alternation between two state of accomplishment and interruption

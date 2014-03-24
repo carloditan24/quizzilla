@@ -41,10 +41,12 @@ public class Quiz{
 
 			try{
 				while((questionLine = questionReader.readLine()) != null && (answerLine = answerReader.readLine()) != null){
-					Item i = new Item();
-					i.setQuestion(questionLine);
-					i.setAnswer(answerLine);
-					this.items.add(i);
+					if(questionLine.indexOf('#') == -1){
+						Item i = new Item();
+						i.setQuestion(questionLine);
+						i.setAnswer(answerLine);
+						this.items.add(i);
+					}
 				}
 			}catch(IOException ioe){
 				System.out.println(ioe.getMessage());

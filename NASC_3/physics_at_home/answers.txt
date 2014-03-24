@@ -1,0 +1,80 @@
+temperature
+motion
+average translational kinetic energy
+5/9(tf-32)
+9/5tc+32
+tc+273.15
+heat
+transit
+scalar
+4.186
+dimension,temperature,phase
+mass*specific heat*change in temperature
+specific heat
+higher
+lower
+warm
+higher
+cool
+mass*latent heat capacity
+direct contact
+movement of mass
+electromagnetic radiation
+high to low
+molecular collisions
+ka((th-tc)/l)
+high
+natural
+forced
+thermodynamics
+thermal equilibrium is transitive
+energy is conserved,its form can be converted
+energies can flow,equilibrate
+driving force for equilibration uniquely defined
+same,no
+interact
+heat,work,internal energy
+-q
++q
+p*delta(ax)
+change in volume
++w
+-w
+on
+by
+internal energy
+increase in temperature
+decrease in temperature
+work,change in internal energy
+adiabatic process
+cooler
+hotter
+isochoric process
+change in internal energy
+isothermal process
+change in volume
+preferred directions
+clausius statement
+spontaneous
+not spontaneous
+no other effect
+always heat loss
+only the effect of extracting heat
+not 100%
+backwards
+work,thermal energy
+cold
+hot
+not spontaneous
+entropy
+unavailable
+natural systems
+spontaneous
+not spontaneous
+zero
+melting
+vaporization
+sublimation
+freezing
+condensation
+deposition
